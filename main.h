@@ -6,7 +6,7 @@
 #include <stdarg.h>
 
 /**
-* struct symbols - defines a structure for symbols and functions
+* struct symbol - defines a structure for symbols and functions
 *
 * @sym: The operator
 * @func: The function associated
