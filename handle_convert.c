@@ -15,7 +15,7 @@ int printable(char c)
 }
 
 /**
- * append_hexa_code - Append ascci in hexadecimal code to buffer
+ * append_hex - Append ascci in hexadecimal code to buffer
  * @buffer: Array of chars.
  * @count: Index at which to start appending.
  * @ascii_code: ASSCI CODE.
